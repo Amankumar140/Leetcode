@@ -27,7 +27,7 @@ public:
         return postOrder;
     }
 };
-// iterative apporoach
+// iterative apporoach one stack uses
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
